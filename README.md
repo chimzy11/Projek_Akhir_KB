@@ -10,3 +10,5 @@
 
 # Dataset : https://www.kaggle.com/datasets/phylake1337/fire-dataset
 Dataset diambil dari kaggle yang merupakan jenis dataset citra yaitu mengklasifikasikan kebakaran atau bukan
+
+# Penjelasan Dataset
